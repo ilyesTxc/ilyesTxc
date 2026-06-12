@@ -229,7 +229,6 @@ Backend-focused engineering internship on a Node.js/React product team — build
 | 📦 **HackTheBox Progress** | Consistent machine completions with full enumeration-to-root methodology |
 | 🦠 **Malware Analysis Delivery** | Complete static analysis case study of WannaCry in an isolated lab |
 | 🤖 **AI Project Delivery** | Designed and shipped a LangGraph multi-agent detection system end-to-end |
-| 🛠️ **Code Review Excellence** | 17/20 on rigorous architecture-level Java code review |
 
 </div>
 
@@ -260,17 +259,6 @@ Backend-focused engineering internship on a Node.js/React product team — build
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ilyesTxc&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -280,17 +268,7 @@ Backend-focused engineering internship on a Node.js/React product team — build
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ilyesTxc/ilyesTxc/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 

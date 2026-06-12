@@ -310,7 +310,7 @@ open_to:
 
 <div align="center">
 
-### *"You can't defend what you don't know how to break — and you can't break what you don't understand how to build."*
+### *"You can't defend what you don't know how to break, and you can't break what you don't understand how to build."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=140&section=footer" width="100%"/>
 

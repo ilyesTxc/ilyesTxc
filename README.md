@@ -26,7 +26,7 @@
 
 ---
 
-## 🧬 About
+## About
 
 <img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="320" alt="Hacking"/>
 
@@ -47,7 +47,7 @@ Software engineering student at **ENIT (École Nationale d'Ingénieurs de Tunis)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Deliberately structured with separation of concerns to build the backend fundame
 
 ## Experience
 
-### 🛡️ Independent Security Research & Labs
+### Independent Security Research & Labs
 **2025 — Present** · Self-Directed
 
 Daily hands-on offensive and defensive security practice in a dedicated lab environment.
@@ -245,7 +245,7 @@ Backend-focused engineering internship on a Node.js/React product team — build
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -259,7 +259,7 @@ Backend-focused engineering internship on a Node.js/React product team — build
 </div>
 
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -269,7 +269,7 @@ Backend-focused engineering internship on a Node.js/React product team — build
 
 
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
